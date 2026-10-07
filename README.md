@@ -50,15 +50,15 @@ This document provides a detailed SOC Tier 1 analysis and escalation report for 
 ## 4. Evidence & Screenshots
 
 * **Alert Details & Summary:**
-  ![Alert Details](<img width="994" height="597" alt="details2" src="https://github.com/user-attachments/assets/fc9d6e71-12c5-4282-9c56-4ff192579567" />
+  ![Alert Details](<img width="994" height="597" alt="details2" src="https://github.com/user-attachments/assets/fc9d6e71-12c5-4282-9c56-4ff192579567"/>
 )
 
 * **SIEM / Log Investigation:**
-  ![SIEM Logs](<img width="1281" height="901" alt="url" src="https://github.com/user-attachments/assets/5c2f079e-a444-43e5-aa0a-99e054e2eb4f" />
+  ![SIEM Logs](<img width="1281" height="901" alt="url" src="https://github.com/user-attachments/assets/5c2f079e-a444-43e5-aa0a-99e054e2eb4f"/>
 )
 
 * **Incident Decision & Escalation Form:**
-  ![Escalation Form]()<img width="1001" height="871" alt="report" src="https://github.com/user-attachments/assets/d7638b8d-13ea-4371-99fd-a86030b73419" />
+  ![Escalation Form]()<img width="1001" height="871" alt="report" src="https://github.com/user-attachments/assets/d7638b8d-13ea-4371-99fd-a86030b73419"/>
 
 
 ---
