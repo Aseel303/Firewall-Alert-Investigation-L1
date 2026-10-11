@@ -38,12 +38,11 @@ This document provides a detailed SOC Tier 1 analysis and escalation report for 
 * **Alert Classification:** `True Positive`
 * **Escalated to Tier 2:** `Yes`
 
-### Analyst Final Notes
-> On Oct 7th, 2026 at 12:54, the internal host (IP: 10.20.2.17) attempted to access a blacklisted external URL (`http://bit.ly/3sHkX3da12340`) over TCP protocol (Source Port: 34257, Destination IP: 67.199.248.11, Destination Port: 80).
-> 
-> Upon analysis, the URL was confirmed to be malicious and was successfully blocked by the firewall's blacklisting rules. 
-> 
-> Since an outbound connection attempt was initiated, further investigation is required to determine the root cause, check for potential machine compromise, and identify the user/process responsible. Therefore, the alert has been escalated to Tier 2 for deep-dive investigation.
+### Final Notes
+ On Oct 7th, 2026 at 12:54, the internal host (IP: 10.20.2.17) attempted to access a blacklisted external URL (`http://bit.ly/3sHkX3da12340`) over TCP protocol (Source Port: 34257, Destination IP: 67.199.248.11, Destination Port: 80).
+ 
+ the URL was confirmed to be malicious and was successfully blocked by the firewall's blacklisting rules. 
+Since an outbound connection attempt was initiated, further investigation is required to determine the root cause, check for potential machine compromise, and identify the user/process responsible. Therefore, the alert has been escalated to Tier 2 for deep-dive investigation.
 
 ---
 
